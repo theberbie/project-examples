@@ -1,0 +1,2 @@
+[lfs]
+url = "http://mill.jfrog.info:12181/artifactory/api/lfs/gitlfs-local"
